@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Email: bhuvan.thota3@gmail.com
+
 <!--
 **BhuvanThota/BhuvanThota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
