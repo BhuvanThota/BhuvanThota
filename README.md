@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Email: saibhuvan1@gmail.com 
+Email: saibhuvan1@gmail.com
+<br/>
 OR
 Email: bhuvan.thota3@gmail.com
 
