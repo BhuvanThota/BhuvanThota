@@ -42,53 +42,6 @@ I care deeply about:
 - Stable deployments  
 - Debugging *real* production issues (logs > assumptions)
 
----
-
-## 🔨 Things I’ve built
-
-### 🧾 Budget Store Manager
-Backend services powering inventory, POS, and reporting workflows.
-
-- Designed REST APIs for inventory & sales flows  
-- PostgreSQL for reliable data persistence  
-- Dockerized services deployed on AWS ECS  
-
-**Tech:** Java · Spring Boot · PostgreSQL · Docker · AWS  
-
----
-
-### ✅ Task Manager Backend API
-A production-ready REST API for managing tasks with performance in mind.
-
-- Implemented filtering, pagination, and validations  
-- Optimized SQL queries to reduce response time  
-- Focused on API correctness and reliability  
-
-**Tech:** Java · Spring Boot · PostgreSQL  
-
----
-
-### 💼 Job Portal Platform
-Backend services for job postings, user profiles, and application workflows.
-
-- Built modular Spring Boot services  
-- Deployed and managed services on AWS  
-- Learned how small backend decisions affect scale  
-
-**Tech:** Spring Boot · PostgreSQL · AWS  
-
----
-
-### 🌐 Engineering Portfolio
-This portfolio itself is a project 🙂
-
-- Built to explain **engineering ownership**, not just visuals  
-- Structured so recruiters understand *what I actually built*  
-
-**Tech:** React · Tailwind CSS  
-
----
-
 ## 🧩 Tech I work with
 
 **Backend**  
@@ -107,9 +60,9 @@ React · Next.js · Tailwind CSS
 
 ## 📫 Reach me
 
-- **LinkedIn:** https://www.linkedin.com/in/your-link  
-- **Portfolio:** https://your-portfolio-url  
-- **Email:** your.email@example.com  
+- **LinkedIn:** [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/tbhuvan/)  
+- **Portfolio:** [https://your-portfolio-url](https://bhuvan-portfolio-3.netlify.app/)
+- **Email:** saibhuvan1@gmail.com 
 
 ---
 
